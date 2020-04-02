@@ -8,69 +8,69 @@
     <string id="034LYlKi" text="Лицо Стены"/>
     <string id="05w8Tl7n" text="Степной"/>
     <string id="0cpbEvsG" text="Старое Лицо"/>
-    <string id="0DBQGaka" text="Доставили выдержано Лэнс ущерб!"/>
+    <string id="0DBQGaka" text="Нанесен рыцарский удар!"/>
     <string id="0nRbr6Z9" text="Северная Америка"/>
-    <string id="0P89VyAQ" text="Асимметрию Лица"/>
-    <string id="0WHQKap4" text="Подбор оборудования ограничение по времени (секунд)"/>
-    <string id="0xJ3qIlJ" text="Линии Челюсти "/>
+    <string id="0P89VyAQ" text="Асимметрия Лица"/>
+    <string id="0WHQKap4" text="На выбор снаряжения время ограниченно (секунд)"/>
+    <string id="0xJ3qIlJ" text="Линия Подбородка"/>
     <string id="1fFnE9Vk" text="Европа"/>
     <string id="1GFrsDRm" text="Опрос Принять Порог"/>
-    <string id="1gU5rDws" text="Разрешить Поголовно Банить Игроков"/>
+    <string id="1gU5rDws" text="Разрешить Банить Игроков Голосованием"/>
     <string id="1Ndyb5I1" text="Время снятия флага (в секундах)"/>
     <string id="1siBGYlP" text="Ширина Скул "/>
-    <string id="1zveWQFg" text="Перейдите на вкладку сватовства и выберите регион, чтобы встать в очередь на битву"/>
-    <string id="22MOa4Fc" text="Внешний Глаз Высота"/>
-    <string id="23INS6nf" text="Пароль"/>
+    <string id="1zveWQFg" text="Перейдите на вкладку матчмейкинга и выберите регион, чтобы встать на очередь в битву"/>
+    <string id="22MOa4Fc" text="Высота Внешнего Угла Глаза"/>
+    <string id="23INS6nf" text="Необходим пароль"/>
     <string id="26SJhCRD" text="Заменить"/>
     <string id="2blpQ3OQ" text="Маркировка"/>
-    <string id="2d0H47C8" text="С Глазу На Глаз Расстояние "/>
-    <string id="2G3QpSDk" text="Губы вогнутый/выпуклый"/>
-    <string id="2QzgefNF" text="Лицо Вес"/>
+    <string id="2d0H47C8" text="Расстояние Между Глаз"/>
+    <string id="2G3QpSDk" text="Губы вогнутые/выпуклые"/>
+    <string id="2QzgefNF" text="Вес Лица"/>
     <string id="2Rf2ChRD" text="Глубина Бровей "/>
-    <string id="2uynGJbP" text="Передача Войск"/>
+    <string id="2uynGJbP" text="Перемещение Войск"/>
     <string id="39kMNdA5" text="Снятие Флага "/>
-    <string id="3AInGztr" text="Туловище"/>
+    <string id="3AInGztr" text="Торс"/>
     <string id="3APdsKEi" text="Метательный Нож"/>
     <string id="3aX5gXmJ" text="Цвет Кожи "/>
     <string id="3Kkya96j" text="Ноги"/>
-    <string id="3kqFHkZz" text="Толщина Губы "/>
-    <string id="3syV6ymi" text="Тупить"/>
-    <string id="3ydKbDmI" text="{PLAY_TIME} minutes"/>
-    <string id="3ZzxddkE" text="Игра Пароль"/>
+    <string id="3kqFHkZz" text="Толщина Губ "/>
+    <string id="3syV6ymi" text="Тупой"/>
+    <string id="3ydKbDmI" text="{PLAY_TIME} минуты"/>
+    <string id="3ZzxddkE" text="Пароль"/>
     <string id="43L45sjx" text="Количество ботов в формировании"/>
     <string id="4DcNDein" text="Лимит времени на карте (минут)"/>
     <string id="4Dd2xgPm" text="Вес"/>
-    <string id="4PrfimcK" text="Бейдж"/>
-    <string id="4wLU6s4S" text="Брюшко"/>
+    <string id="4PrfimcK" text="Значок"/>
+    <string id="4wLU6s4S" text="Живот"/>
     <string id="5anoN5EJ" text="Отточить свои боевые навыки в этой хаотичной и классический командный режим игры против других игроков."/>
     <string id="5LpufKs7" text="За Мной"/>
     <string id="5mSKBidd" text="Форма Носа "/>
-    <string id="5odwu8qB" text="Место"/>
+    <string id="5odwu8qB" text="Рейтинговый"/>
     <string id="5rj7xQE4" text="Лук"/>
     <string id="5tbWdY1j" text="Аватар"/>
-    <string id="5vZW8IJ5" text="Swap with {ITEM_NAME}"/>
-    <string id="621DbiOw" text="Asymetry Нос "/>
+    <string id="5vZW8IJ5" text="Заменить {ITEM_NAME}"/>
+    <string id="621DbiOw" text="Ассиметрия Носа "/>
     <string id="64n3piBf" text="Всего Игр"/>
     <string id="6DBVzw9r" text="Построить"/>
     <string id="6yZnboe6" text="Размер Глазницы "/>
-    <string id="74tYdiOb" text="Выберите свои войска мудро согласно потребностям вашей команды. На счету войск определяются численность войск."/>
-    <string id="77arWi0m" text="Внутренний Глаз Высота"/>
-    <string id="7BlOJvyo" text="Ширина Горловины "/>
+    <string id="74tYdiOb" text="Выберайте ваши войска мудро согласно потребностям вашей команды. Численность войск определяется силой войск."/>
+    <string id="77arWi0m" text="Высота внутреннего угла глаз"/>
+    <string id="7BlOJvyo" text="Ширина Рта "/>
     <string id="7lvexPjZ" text="Равнина"/>
     <string id="7MkoLtWC" text="Топор"/>
     <string id="7qySRF2T" text="Пинг"/>
-    <string id="7snGCl6z" text="Лицо Заколебалось Осадных "/>
-    <string id="880uOrte" text="Местности"/>
-    <string id="8o1lZcjR" text="Чела Внешняя Высота"/>
-    <string id="8sG5bTtK" text="Период Респауна "/>
+    <string id="7snGCl6z" text="Лицом к осадным орудиям "/>
+    <string id="880uOrte" text="Местность"/>
+    <string id="8o1lZcjR" text="Высота Наружной Части Брови"/>
+    <string id="8sG5bTtK" text="Время Респауна "/>
     <string id="9aboazgu" text="Линия"/>
     <string id="9TGLirQf" text="Круг"/>
     <string id="9Ts5zKIj" text="Глаза"/>
     <string id="a2xfNmqa" text="В Лобби"/>
-    <string id="a8nb5HVc" text="Лоб Средней Высоты"/>
-    <string id="aAD1iOuH" text="Верхний Размер Рта "/>
+    <string id="a8nb5HVc" text="Высота Середины Брови"/>
+    <string id="aAD1iOuH" text="Высота Верхней Части Рта "/>
     <string id="AbEh2y8o" text="Сохранить и выйти"/>
-    <string id="aDA9PWFT" text="Заранее"/>
+    <string id="aDA9PWFT" text="Вперед"/>
     <string id="aDabgVpn" text="Кастомизация Персонажа "/>
     <string id="adyGICWc" text="Камеры Заблокирован!"/>
     <string id="AEcTBnkz" text="Смена Одежды"/>
